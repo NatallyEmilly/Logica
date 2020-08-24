@@ -3,7 +3,7 @@ Algoritmo "nomeesobrenome"
 Var
    nome, sobrenome, nomecompleto: caractere
 Inicio
-      escreva("Digite o nome: ")
+      escreva("Digite o primeiro nome: ")
       leia(nome)
       escreva("Digite o sobrenome: ")
       leia(sobrenome)
